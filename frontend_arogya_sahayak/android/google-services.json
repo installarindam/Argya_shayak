@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "700407314809",
+    "firebase_url": "https://patient-details-6a04f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "patient-details-6a04f",
+    "storage_bucket": "patient-details-6a04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700407314809:android:cc5a0897142623422717a8",
+        "android_client_info": {
+          "package_name": "com.arindam.arogya_sahayak.arogya_sahayak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700407314809-fn04ccnjr0dd3h3knfj42s2ljr3eirce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arindam.arogya_sahayak.arogya_sahayak",
+            "certificate_hash": "ad06942dadf9f1b7c8f2b9a9d3af2b361c253aaa"
+          }
+        },
+        {
+          "client_id": "700407314809-3ummbki8p16ptrparmarbobdojhn0l0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmu-M3VuCzMcTJF0JdStwHes9VxdlMCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700407314809-3ummbki8p16ptrparmarbobdojhn0l0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
